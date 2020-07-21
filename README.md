@@ -1,5 +1,7 @@
 # Class 43 - React day 2 warmup
 
+[Lecture recording](https://drive.google.com/file/d/1NKtCaJ3kKBRIBdUSN9-QQoMnjMePP0rq/view?usp=sharing)
+
 ## Recap of yesterday
 
 **react**
