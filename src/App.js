@@ -5,6 +5,7 @@ import "./App.css";
 import data from "./kelley_family.json";
 
 import SiblingButton from "./components/SiblingButton";
+import Header from "./components/Header";
 
 function App() {
   const logged_in = true; // imagine this is computed somehow, from having actually logged in or not
@@ -19,6 +20,7 @@ function App() {
 
   return (
     <div>
+      <Header />
       <div className="toolbar" style={{ display: "flex" }}>
         Name of website
         <div style={{ flex: 1 }}></div>
